@@ -1,7 +1,7 @@
 # Guía de Instalación — CassaDoc
 
 **Sistema de Trámite Documentario con Apache Cassandra**  
-Universidad Nacional Agraria La Molina · 2024
+Universidad Nacional Agraria La Molina · 2026
 
 ---
 
