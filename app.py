@@ -210,7 +210,7 @@ with st.sidebar:
     pagina = st.radio("Navegación", opciones, label_visibility="visible")
 
     st.divider()
-    st.caption("Apache Cassandra (NoSQL)\nDpto. Estadística e Informática · UNALM 2024")
+    st.caption("Apache Cassandra (NoSQL)\nDpto. Estadística e Informática · UNALM 2026")
 
 import importlib, sys as _sys
 
